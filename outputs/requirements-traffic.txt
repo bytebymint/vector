@@ -1,0 +1,21 @@
+# Installed before Ultralytics, which is installed with --no-deps (see install-traffic.ps1).
+# opencv-contrib supplies cv2 AND preserves the existing super-resolution viewer.
+aiortc==1.15.0
+aiohttp==3.14.5
+opencv-contrib-python==4.13.0.92
+numpy>=2.2,<2.4
+Flask==3.1.3
+Flask-SocketIO==5.7.0
+simple-websocket==1.1.0
+psutil==7.2.2
+scipy==1.18.1
+lap==0.5.13
+matplotlib==3.11.2
+PyYAML==6.0.3
+requests==2.34.2
+polars==2.0.0
+ultralytics-thop==2.2.3
+nvidia-ml-py>=12
+pytest==9.1.1
+yt-dlp[default]==2026.10.21
+onnxruntime==1.31.0

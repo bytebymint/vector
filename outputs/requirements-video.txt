@@ -1,0 +1,4 @@
+aiortc==1.15.0
+aiohttp==3.14.5
+opencv-contrib-python==4.13.0.92
+numpy==2.3.5
