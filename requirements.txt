@@ -1,0 +1,39 @@
+# VECTOR - Real-Time 4K Video Intelligence & Face Recognition Studio
+# Python 3.10+ / 3.11 / 3.12 compatible dependencies
+
+# Web Framework & Real-Time Communication
+Flask>=3.0.0
+Flask-SocketIO>=5.3.0
+simple-websocket>=1.0.0
+requests>=2.31.0
+
+# Video Streaming, Extraction & Demuxing
+av>=12.0.0
+yt-dlp>=2024.10.0
+aiortc>=1.8.0
+aiohttp>=3.9.0
+imageio-ffmpeg>=0.4.9
+
+# Computer Vision & Image Processing
+opencv-contrib-python>=4.8.0
+numpy>=1.24.0,<2.4.0
+scipy>=1.10.0
+pillow>=10.0.0
+onnxruntime>=1.16.0
+
+# Object Detection & Multi-Object Tracking
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0
+lap>=0.4.0
+ultralytics-thop>=2.0.0
+
+# System, Diagnostics & Telemetry
+psutil>=5.9.0
+PyYAML>=6.0
+matplotlib>=3.7.0
+polars>=1.0.0
+nvidia-ml-py>=12.0.0
+
+# Testing & Verification
+pytest>=8.0.0
