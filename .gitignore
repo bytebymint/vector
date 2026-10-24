@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+work/
+
+# Testing & Pytest
+.pytest_cache/
+outputs/.pytest*
+.coverage
+htmlcov/
+*.xml
+
+# Application State, Large Assets & Database
+outputs/data/*.sqlite3*
+outputs/data/captures/
+outputs/data/opencl_cache/
+outputs/data/face-app-session.json
+outputs/static/recordings/*.mp4
+*.mp4
+*.log
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
