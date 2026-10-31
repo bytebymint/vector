@@ -1,0 +1,56 @@
+[
+  {
+    "format_id": "269",
+    "width": 256,
+    "height": 144,
+    "fps": 15.0,
+    "vcodec": "avc1.42C00B",
+    "tbr": 269.034,
+    "protocol": "m3u8_native"
+  },
+  {
+    "format_id": "229",
+    "width": 426,
+    "height": 240,
+    "fps": 30.0,
+    "vcodec": "avc1.4D4015",
+    "tbr": 507.418,
+    "protocol": "m3u8_native"
+  },
+  {
+    "format_id": "230",
+    "width": 640,
+    "height": 360,
+    "fps": 30.0,
+    "vcodec": "avc1.4D401E",
+    "tbr": 962.461,
+    "protocol": "m3u8_native"
+  },
+  {
+    "format_id": "231",
+    "width": 854,
+    "height": 480,
+    "fps": 30.0,
+    "vcodec": "avc1.4D401F",
+    "tbr": 1282.517,
+    "protocol": "m3u8_native"
+  },
+  {
+    "format_id": "232",
+    "width": 1280,
+    "height": 720,
+    "fps": 30.0,
+    "vcodec": "avc1.4D401F",
+    "tbr": 2447.97,
+    "protocol": "m3u8_native"
+  },
+  {
+    "format_id": "270",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30.0,
+    "vcodec": "avc1.640028",
+    "tbr": 4561.186,
+    "protocol": "m3u8_native"
+  }
+]

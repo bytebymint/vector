@@ -1,0 +1,1532 @@
+{
+  "samples": [
+    {
+      "timestamp": 1792681531.8859842,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.788732394366196,
+        "frame_age_seconds": 0.01249551773071289,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 484,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 121.3233470916748,
+        "analytics_ms": 1.283199992030859,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 77.3,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.607695073648772,
+        "inference_ms": 74.92140005342662,
+        "latency_p95_ms": 77.21120503847487,
+        "logical_cpus": 12,
+        "memory_mb": 451.95703125,
+        "physical_cpus": 6,
+        "process_cpu_percent": 789.5,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 211,
+        "tracking_ms": 0.9468999924138188
+      },
+      "visible": 3,
+      "unique": 675,
+      "roles": {
+        "in": 34,
+        "out": 64
+      }
+    },
+    {
+      "timestamp": 1792681532.903421,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.788732394366196,
+        "frame_age_seconds": 0.0118408203125,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 501,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 112.09321022033691,
+        "analytics_ms": 1.5144000062718987,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 85.8,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.577267837973595,
+        "inference_ms": 52.861400065012276,
+        "latency_p95_ms": 77.21120503847487,
+        "logical_cpus": 12,
+        "memory_mb": 451.99609375,
+        "physical_cpus": 6,
+        "process_cpu_percent": 773.0,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 219,
+        "tracking_ms": 1.3283999869599938
+      },
+      "visible": 3,
+      "unique": 675,
+      "roles": {
+        "in": 34,
+        "out": 64
+      }
+    },
+    {
+      "timestamp": 1792681533.9182436,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.788732394366196,
+        "frame_age_seconds": 0.015504121780395508,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 518,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 107.02133178710938,
+        "analytics_ms": 0.8368000853806734,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 72.5,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.63638002519958,
+        "inference_ms": 49.61320001166314,
+        "latency_p95_ms": 77.21120503847487,
+        "logical_cpus": 12,
+        "memory_mb": 447.9453125,
+        "physical_cpus": 6,
+        "process_cpu_percent": 780.5,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 225,
+        "tracking_ms": 1.289099920541048
+      },
+      "visible": 2,
+      "unique": 677,
+      "roles": {
+        "in": 34,
+        "out": 65
+      }
+    },
+    {
+      "timestamp": 1792681534.9411478,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.788732394366196,
+        "frame_age_seconds": 0.0009970664978027344,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 535,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 125.39315223693848,
+        "analytics_ms": 1.635099994018674,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 75.3,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.577267837973595,
+        "inference_ms": 62.27460002992302,
+        "latency_p95_ms": 77.21120503847487,
+        "logical_cpus": 12,
+        "memory_mb": 452.11328125,
+        "physical_cpus": 6,
+        "process_cpu_percent": 779.0,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 230,
+        "tracking_ms": 1.9017000449821353
+      },
+      "visible": 3,
+      "unique": 677,
+      "roles": {
+        "in": 34,
+        "out": 65
+      }
+    },
+    {
+      "timestamp": 1792681535.9577177,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.670396061823052,
+        "frame_age_seconds": 0.019911766052246094,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 552,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 139.8017406463623,
+        "analytics_ms": 1.9372999668121338,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 71.1,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.516934046372,
+        "inference_ms": 53.228699951432645,
+        "latency_p95_ms": 77.21120503847487,
+        "logical_cpus": 12,
+        "memory_mb": 451.453125,
+        "physical_cpus": 6,
+        "process_cpu_percent": 776.0,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 236,
+        "tracking_ms": 1.3957000337541103
+      },
+      "visible": 3,
+      "unique": 679,
+      "roles": {
+        "in": 34,
+        "out": 67
+      }
+    },
+    {
+      "timestamp": 1792681536.9750228,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.670396061823052,
+        "frame_age_seconds": 0.013207674026489258,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 568,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 119.95387077331543,
+        "analytics_ms": 2.5127000408247113,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 75.8,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.69615663534948,
+        "inference_ms": 52.3049000184983,
+        "latency_p95_ms": 73.47205999540164,
+        "logical_cpus": 12,
+        "memory_mb": 453.35546875,
+        "physical_cpus": 6,
+        "process_cpu_percent": 785.0,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 243,
+        "tracking_ms": 2.408499945886433
+      },
+      "visible": 4,
+      "unique": 679,
+      "roles": {
+        "in": 34,
+        "out": 67
+      }
+    },
+    {
+      "timestamp": 1792681538.003714,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.642466212480844,
+        "frame_age_seconds": 0.0020744800567626953,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 586,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 60.77742576599121,
+        "analytics_ms": 2.055999939329922,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 75.5,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.849577050222656,
+        "inference_ms": 51.10540008172393,
+        "latency_p95_ms": 69.11883504362777,
+        "logical_cpus": 12,
+        "memory_mb": 451.1953125,
+        "physical_cpus": 6,
+        "process_cpu_percent": 789.5,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 249,
+        "tracking_ms": 1.3421999756246805
+      },
+      "visible": 4,
+      "unique": 681,
+      "roles": {
+        "in": 35,
+        "out": 68
+      }
+    },
+    {
+      "timestamp": 1792681539.0280216,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.670396061823052,
+        "frame_age_seconds": 0.014347553253173828,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 603,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 67.54851341247559,
+        "analytics_ms": 1.6005999641492963,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 73.1,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.946196660454005,
+        "inference_ms": 57.54420009907335,
+        "latency_p95_ms": 68.60772001673467,
+        "logical_cpus": 12,
+        "memory_mb": 453.30078125,
+        "physical_cpus": 6,
+        "process_cpu_percent": 803.2,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 254,
+        "tracking_ms": 1.220499980263412
+      },
+      "visible": 5,
+      "unique": 681,
+      "roles": {
+        "in": 35,
+        "out": 68
+      }
+    },
+    {
+      "timestamp": 1792681540.0542064,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.672261385188037,
+        "frame_age_seconds": 0.016261816024780273,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 620,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 59.40055847167969,
+        "analytics_ms": 1.5355999348685145,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 73.3,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.913799482139702,
+        "inference_ms": 56.17980007082224,
+        "latency_p95_ms": 68.60772001673467,
+        "logical_cpus": 12,
+        "memory_mb": 452.23046875,
+        "physical_cpus": 6,
+        "process_cpu_percent": 804.0,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 260,
+        "tracking_ms": 1.8062000162899494
+      },
+      "visible": 3,
+      "unique": 683,
+      "roles": {
+        "in": 35,
+        "out": 71
+      }
+    },
+    {
+      "timestamp": 1792681541.0748842,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.700291414442706,
+        "frame_age_seconds": 0.0363616943359375,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 637,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 60.23669242858887,
+        "analytics_ms": 1.0587000288069248,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 73.9,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.976744186046512,
+        "inference_ms": 57.562500005587935,
+        "latency_p95_ms": 68.48050008993596,
+        "logical_cpus": 12,
+        "memory_mb": 452.2578125,
+        "physical_cpus": 6,
+        "process_cpu_percent": 789.6,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 266,
+        "tracking_ms": 1.0618999367579818
+      },
+      "visible": 3,
+      "unique": 683,
+      "roles": {
+        "in": 35,
+        "out": 71
+      }
+    },
+    {
+      "timestamp": 1792681542.0986078,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.700291414442706,
+        "frame_age_seconds": 0.02576732635498047,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 654,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 64.52703475952148,
+        "analytics_ms": 1.8390000332146883,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 73.5,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.881593507889532,
+        "inference_ms": 53.77370002679527,
+        "latency_p95_ms": 66.94805497536436,
+        "logical_cpus": 12,
+        "memory_mb": 453.24609375,
+        "physical_cpus": 6,
+        "process_cpu_percent": 799.9,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 273,
+        "tracking_ms": 1.8026999896392226
+      },
+      "visible": 3,
+      "unique": 685,
+      "roles": {
+        "in": 35,
+        "out": 72
+      }
+    },
+    {
+      "timestamp": 1792681543.1180267,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.878115088394406,
+        "frame_age_seconds": 0.028341054916381836,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 671,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 68.27783584594727,
+        "analytics_ms": 1.6090000281110406,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 72.5,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.819732257513605,
+        "inference_ms": 64.97159996069968,
+        "latency_p95_ms": 68.30447001266293,
+        "logical_cpus": 12,
+        "memory_mb": 447.23046875,
+        "physical_cpus": 6,
+        "process_cpu_percent": 795.6,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 278,
+        "tracking_ms": 1.7149000195786357
+      },
+      "visible": 3,
+      "unique": 685,
+      "roles": {
+        "in": 35,
+        "out": 72
+      }
+    },
+    {
+      "timestamp": 1792681544.1374874,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.642466212480844,
+        "frame_age_seconds": 0.0319216251373291,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 687,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 70.14918327331543,
+        "analytics_ms": 2.41499999538064,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 75.6,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.788078259198743,
+        "inference_ms": 53.847899893298745,
+        "latency_p95_ms": 68.23945002397522,
+        "logical_cpus": 12,
+        "memory_mb": 452.41015625,
+        "physical_cpus": 6,
+        "process_cpu_percent": 792.3,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 285,
+        "tracking_ms": 1.9073000876232982
+      },
+      "visible": 5,
+      "unique": 689,
+      "roles": {
+        "in": 37,
+        "out": 74
+      }
+    },
+    {
+      "timestamp": 1792681545.162811,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.672261385188037,
+        "frame_age_seconds": 0.028296470642089844,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 704,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 81.25638961791992,
+        "analytics_ms": 2.2468999959528446,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 72.6,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.756608933482273,
+        "inference_ms": 47.12130001280457,
+        "latency_p95_ms": 68.3491550036706,
+        "logical_cpus": 12,
+        "memory_mb": 454.4140625,
+        "physical_cpus": 6,
+        "process_cpu_percent": 800.2,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 291,
+        "tracking_ms": 1.9159000366926193
+      },
+      "visible": 4,
+      "unique": 689,
+      "roles": {
+        "in": 37,
+        "out": 74
+      }
+    },
+    {
+      "timestamp": 1792681546.1866965,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.75851985163883,
+        "frame_age_seconds": 0.09511494636535645,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 721,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 81.14194869995117,
+        "analytics_ms": 1.7979999538511038,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 74.0,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.63638002519958,
+        "inference_ms": 75.23710001260042,
+        "latency_p95_ms": 72.50633994117379,
+        "logical_cpus": 12,
+        "memory_mb": 453.55078125,
+        "physical_cpus": 6,
+        "process_cpu_percent": 785.7,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 298,
+        "tracking_ms": 2.5559000205248594
+      },
+      "visible": 3,
+      "unique": 692,
+      "roles": {
+        "in": 38,
+        "out": 75
+      }
+    },
+    {
+      "timestamp": 1792681547.2084308,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.81715575623419,
+        "frame_age_seconds": 0.10579562187194824,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 738,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 93.19806098937988,
+        "analytics_ms": 1.7930000321939588,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 94.0,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.121804769210264,
+        "inference_ms": 55.878099985420704,
+        "latency_p95_ms": 94.05876999371677,
+        "logical_cpus": 12,
+        "memory_mb": 447.71484375,
+        "physical_cpus": 6,
+        "process_cpu_percent": 658.2,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 307,
+        "tracking_ms": 1.5340999234467745
+      },
+      "visible": 3,
+      "unique": 692,
+      "roles": {
+        "in": 38,
+        "out": 75
+      }
+    },
+    {
+      "timestamp": 1792681548.2277677,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.788732394366196,
+        "frame_age_seconds": 0.11195993423461914,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 755,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 81.92920684814453,
+        "analytics_ms": 1.6812999965623021,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 86.1,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 9.98984083989322,
+        "inference_ms": 47.17160004656762,
+        "latency_p95_ms": 94.05876999371677,
+        "logical_cpus": 12,
+        "memory_mb": 450.88671875,
+        "physical_cpus": 6,
+        "process_cpu_percent": 745.2,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 314,
+        "tracking_ms": 1.4589999336749315
+      },
+      "visible": 3,
+      "unique": 692,
+      "roles": {
+        "in": 39,
+        "out": 75
+      }
+    },
+    {
+      "timestamp": 1792681549.252718,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.498726608423883,
+        "frame_age_seconds": 0.0953528881072998,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 771,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 153.77283096313477,
+        "analytics_ms": 0.8471000473946333,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 73.5,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 9.884402747461042,
+        "inference_ms": 53.29509999137372,
+        "latency_p95_ms": 94.05876999371677,
+        "logical_cpus": 12,
+        "memory_mb": 450.359375,
+        "physical_cpus": 6,
+        "process_cpu_percent": 797.2,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 319,
+        "tracking_ms": 0.8755000308156013
+      },
+      "visible": 2,
+      "unique": 692,
+      "roles": {
+        "in": 39,
+        "out": 75
+      }
+    },
+    {
+      "timestamp": 1792681550.2724934,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.788732394366196,
+        "frame_age_seconds": 0.11321854591369629,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 789,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 55.04345893859863,
+        "analytics_ms": 0.7986999116837978,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 73.5,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.069977811818855,
+        "inference_ms": 52.015700028277934,
+        "latency_p95_ms": 94.05876999371677,
+        "logical_cpus": 12,
+        "memory_mb": 452.796875,
+        "physical_cpus": 6,
+        "process_cpu_percent": 799.9,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 325,
+        "tracking_ms": 1.5052000526338816
+      },
+      "visible": 1,
+      "unique": 693,
+      "roles": {
+        "in": 39,
+        "out": 76
+      }
+    },
+    {
+      "timestamp": 1792681551.2899551,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.700291414442706,
+        "frame_age_seconds": 0.11683392524719238,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 806,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 112.0765209197998,
+        "analytics_ms": 1.4289000537246466,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 73.3,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.016977928668942,
+        "inference_ms": 56.040599942207336,
+        "latency_p95_ms": 94.05876999371677,
+        "logical_cpus": 12,
+        "memory_mb": 450.52734375,
+        "physical_cpus": 6,
+        "process_cpu_percent": 782.0,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 332,
+        "tracking_ms": 1.3702999567613006
+      },
+      "visible": 3,
+      "unique": 693,
+      "roles": {
+        "in": 39,
+        "out": 76
+      }
+    },
+    {
+      "timestamp": 1792681552.3097181,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.700291414442706,
+        "frame_age_seconds": 0.1123511791229248,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 823,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 107.18727111816406,
+        "analytics_ms": 1.5901000006124377,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 76.6,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.488888888888889,
+        "inference_ms": 47.32829995919019,
+        "latency_p95_ms": 85.07647501537573,
+        "logical_cpus": 12,
+        "memory_mb": 452.62890625,
+        "physical_cpus": 6,
+        "process_cpu_percent": 773.0,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 338,
+        "tracking_ms": 1.3267999747768044
+      },
+      "visible": 3,
+      "unique": 695,
+      "roles": {
+        "in": 41,
+        "out": 76
+      }
+    },
+    {
+      "timestamp": 1792681553.3180196,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.642466212480844,
+        "frame_age_seconds": 0.0998084545135498,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 840,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 62.49237060546875,
+        "analytics_ms": 0.7394000422209501,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 79.0,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.577267837752844,
+        "inference_ms": 46.70049995183945,
+        "latency_p95_ms": 62.57850501569919,
+        "logical_cpus": 12,
+        "memory_mb": 453.43359375,
+        "physical_cpus": 6,
+        "process_cpu_percent": 756.2,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 345,
+        "tracking_ms": 1.5510000521317124
+      },
+      "visible": 2,
+      "unique": 695,
+      "roles": {
+        "in": 41,
+        "out": 76
+      }
+    },
+    {
+      "timestamp": 1792681554.3333545,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.672261385405214,
+        "frame_age_seconds": 0.09578919410705566,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 857,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 78.32908630371094,
+        "analytics_ms": 1.6611999599263072,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 71.4,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.727272727272727,
+        "inference_ms": 46.59669997636229,
+        "latency_p95_ms": 62.27561994455755,
+        "logical_cpus": 12,
+        "memory_mb": 452.9765625,
+        "physical_cpus": 6,
+        "process_cpu_percent": 784.9,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 351,
+        "tracking_ms": 1.688700052909553
+      },
+      "visible": 3,
+      "unique": 695,
+      "roles": {
+        "in": 41,
+        "out": 77
+      }
+    },
+    {
+      "timestamp": 1792681555.349314,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.700291414442706,
+        "frame_age_seconds": 0.08741974830627441,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 874,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 51.859140396118164,
+        "analytics_ms": 0.8245999924838543,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 69.2,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.727272727272727,
+        "inference_ms": 50.32160005066544,
+        "latency_p95_ms": 61.69773507863283,
+        "logical_cpus": 12,
+        "memory_mb": 449.94140625,
+        "physical_cpus": 6,
+        "process_cpu_percent": 800.2,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 356,
+        "tracking_ms": 1.1798000195994973
+      },
+      "visible": 2,
+      "unique": 695,
+      "roles": {
+        "in": 41,
+        "out": 77
+      }
+    },
+    {
+      "timestamp": 1792681556.3548427,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.700291414442706,
+        "frame_age_seconds": 0.0956730842590332,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 890,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 90.79813957214355,
+        "analytics_ms": 0.5352000007405877,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 70.9,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.790051207035543,
+        "inference_ms": 45.616299961693585,
+        "latency_p95_ms": 61.68073005974293,
+        "logical_cpus": 12,
+        "memory_mb": 453.0078125,
+        "physical_cpus": 6,
+        "process_cpu_percent": 789.5,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 361,
+        "tracking_ms": 1.7454000189900398
+      },
+      "visible": 1,
+      "unique": 698,
+      "roles": {
+        "in": 42,
+        "out": 77
+      }
+    },
+    {
+      "timestamp": 1792681557.3691216,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.64246621226444,
+        "frame_age_seconds": 0.07743501663208008,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 908,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 55.4957389831543,
+        "analytics_ms": 0.8611999219283462,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 68.6,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.727272727272727,
+        "inference_ms": 52.71890002768487,
+        "latency_p95_ms": 61.509970092447475,
+        "logical_cpus": 12,
+        "memory_mb": 454.03515625,
+        "physical_cpus": 6,
+        "process_cpu_percent": 791.3,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 368,
+        "tracking_ms": 1.5643000369891524
+      },
+      "visible": 2,
+      "unique": 698,
+      "roles": {
+        "in": 42,
+        "out": 77
+      }
+    },
+    {
+      "timestamp": 1792681558.3835068,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.906842165049653,
+        "frame_age_seconds": 0.07676482200622559,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 925,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 65.83404541015625,
+        "analytics_ms": 0.8332000579684973,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 68.7,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.788078259198743,
+        "inference_ms": 45.51900003571063,
+        "latency_p95_ms": 59.059710043948144,
+        "logical_cpus": 12,
+        "memory_mb": 453.7109375,
+        "physical_cpus": 6,
+        "process_cpu_percent": 785.0,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 375,
+        "tracking_ms": 1.0723999002948403
+      },
+      "visible": 2,
+      "unique": 701,
+      "roles": {
+        "in": 42,
+        "out": 77
+      }
+    },
+    {
+      "timestamp": 1792681559.4043236,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.76040494935499,
+        "frame_age_seconds": 0.0034322738647460938,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 943,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 63.216209411621094,
+        "analytics_ms": 1.8300999654456973,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 68.8,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.63638002519958,
+        "inference_ms": 52.69959999714047,
+        "latency_p95_ms": 58.515299996361136,
+        "logical_cpus": 12,
+        "memory_mb": 453.625,
+        "physical_cpus": 6,
+        "process_cpu_percent": 795.6,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 381,
+        "tracking_ms": 2.0665000192821026
+      },
+      "visible": 3,
+      "unique": 701,
+      "roles": {
+        "in": 42,
+        "out": 77
+      }
+    },
+    {
+      "timestamp": 1792681560.4234078,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.555555555555557,
+        "frame_age_seconds": 0.004603385925292969,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 959,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 51.027774810791016,
+        "analytics_ms": 0.7232000352814794,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 70.4,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.460992907775507,
+        "inference_ms": 48.97120001260191,
+        "latency_p95_ms": 59.07337004318833,
+        "logical_cpus": 12,
+        "memory_mb": 453.5546875,
+        "physical_cpus": 6,
+        "process_cpu_percent": 782.0,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 388,
+        "tracking_ms": 1.5218999469652772
+      },
+      "visible": 2,
+      "unique": 702,
+      "roles": {
+        "in": 42,
+        "out": 78
+      }
+    },
+    {
+      "timestamp": 1792681561.432337,
+      "stream": {
+        "camera": "บ้านกระบก33 · RC-293",
+        "fps": 16.788732394366196,
+        "frame_age_seconds": 0.0010008811950683594,
+        "height": 432,
+        "message": "Receiving decoded frames",
+        "reconnects": 0,
+        "relay_peers": 1,
+        "sequence": 977,
+        "state": "live",
+        "width": 768
+      },
+      "engine": {
+        "error": null,
+        "state": "running",
+        "warning": null,
+        "weights_ready": true
+      },
+      "performance": {
+        "analytics_latency_ms": 119.62413787841797,
+        "analytics_ms": 0.05789997521787882,
+        "backend": "pytorch",
+        "connected_clients": 1,
+        "cpu_percent": 68.5,
+        "cuda": false,
+        "device": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+        "gpu_memory_mb": null,
+        "gpu_percent": null,
+        "inference_fps": 10.345432228688756,
+        "inference_ms": 59.166999999433756,
+        "latency_p95_ms": 60.59211503015831,
+        "logical_cpus": 12,
+        "memory_mb": 453.62890625,
+        "physical_cpus": 6,
+        "process_cpu_percent": 793.6,
+        "reid": false,
+        "resolution": 640,
+        "skipped_frames": 393,
+        "tracking_ms": 1.307500060647726
+      },
+      "visible": 0,
+      "unique": 702,
+      "roles": {
+        "in": 42,
+        "out": 78
+      }
+    }
+  ],
+  "summary": {
+    "camera_fps": {
+      "mean": 16.71653441376095,
+      "min": 16.498726608423883,
+      "max": 16.906842165049653
+    },
+    "inference_fps": {
+      "mean": 10.584410848402467,
+      "min": 9.884402747461042,
+      "max": 10.976744186046512
+    },
+    "inference_ms": {
+      "mean": 54.0862633419844,
+      "min": 45.51900003571063,
+      "max": 75.23710001260042
+    },
+    "tracking_ms": {
+      "mean": 1.5455399989150465,
+      "min": 0.8755000308156013,
+      "max": 2.5559000205248594
+    },
+    "analytics_latency_ms": {
+      "mean": 86.02620760599773,
+      "min": 51.027774810791016,
+      "max": 153.77283096313477
+    },
+    "cpu_percent": {
+      "mean": 74.47666666666666,
+      "min": 68.5,
+      "max": 94.0
+    },
+    "memory_mb": {
+      "mean": 452.0494791666667,
+      "min": 447.23046875,
+      "max": 454.4140625
+    },
+    "event_types": {
+      "crossing": 121,
+      "lane_transition": 42,
+      "observed": 703,
+      "stopped_vehicle_candidate": 2,
+      "sudden_movement_candidate": 47,
+      "unusual_lane_transition_candidate": 3,
+      "uturn_like_candidate": 2,
+      "wrong_way_candidate": 62
+    },
+    "duplicate_event_keys": 0,
+    "all_samples_live": true,
+    "all_samples_ai_running": true,
+    "roles_start": {
+      "in": 34,
+      "out": 64
+    },
+    "roles_end": {
+      "in": 42,
+      "out": 78
+    }
+  }
+}
