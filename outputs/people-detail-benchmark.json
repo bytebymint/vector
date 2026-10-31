@@ -1,0 +1,37 @@
+{
+  "model": "yolo26n",
+  "backend": "pytorch",
+  "device": "cpu",
+  "thread_count": 4,
+  "note": "Warmed CPU-only inference on a 768x432 saved Pattaya camera fixture; detector only, excludes tracking, stream, and browser. Not a crowded-person accuracy test.",
+  "results": [
+    {
+      "resolution": 640,
+      "source_shape": [
+        432,
+        768,
+        3
+      ],
+      "device": "cpu",
+      "iterations": 20,
+      "mean_ms": 48.34,
+      "p95_ms": 57.83,
+      "effective_fps": 20.69,
+      "mean_raw_person_detections": 0.0
+    },
+    {
+      "resolution": 960,
+      "source_shape": [
+        432,
+        768,
+        3
+      ],
+      "device": "cpu",
+      "iterations": 20,
+      "mean_ms": 83.82,
+      "p95_ms": 93.38,
+      "effective_fps": 11.93,
+      "mean_raw_person_detections": 0.0
+    }
+  ]
+}
