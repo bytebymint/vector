@@ -1,0 +1,225 @@
+{
+  "scope": "Six static source-frame passes; reviewed selected targets, not full-scene recall or playback FPS",
+  "configuration": {
+    "detector_model": "yolo26n",
+    "person_confidence_threshold": 0.1,
+    "face_confidence_threshold": 0.65,
+    "quality_threshold": 55.0,
+    "min_face_pixels": 32,
+    "enhancement_enabled": true,
+    "enhancement_scale": 2,
+    "enhancement_model": "espcn",
+    "max_captures_per_person": 5,
+    "selective_face_cadence": 1,
+    "governance_retention_seconds": 3600.0,
+    "governance_prune_interval_frames": 100
+  },
+  "source_size": [
+    3840,
+    2160
+  ],
+  "selected_targets": 5,
+  "matched_selected_targets": 5,
+  "warm_mean_ms": 276.1,
+  "captures": [],
+  "passes": [
+    {
+      "sequence": 0,
+      "total_ms": 1471.7,
+      "faces": 5,
+      "confirmed": 0,
+      "captures": 0,
+      "coverage": {
+        "mode": "full_discovery",
+        "raw_faces": 6,
+        "detected_faces": 5,
+        "detail_regions": 0,
+        "tile_cycle_frames": 3,
+        "camera_shift": [
+          0.0,
+          0.0
+        ],
+        "motion_ms": 3.4,
+        "global_ms": 50.8,
+        "detail_ms": 0.0,
+        "tiles_ms": 16.8,
+        "runtime": "onnxruntime",
+        "quality_ms": 9.0,
+        "candidate_faces": 6,
+        "verified_faces": 5,
+        "rejected_candidates": 1,
+        "verification_ms": 239.6,
+        "worker_pid": 21720,
+        "confirmed_faces": 0,
+        "pending_confirmation": 5,
+        "capture_eligible": 0,
+        "error": null
+      }
+    },
+    {
+      "sequence": 1,
+      "total_ms": 252.0,
+      "faces": 5,
+      "confirmed": 5,
+      "captures": 0,
+      "coverage": {
+        "mode": "full_discovery",
+        "raw_faces": 6,
+        "detected_faces": 5,
+        "detail_regions": 0,
+        "tile_cycle_frames": 3,
+        "camera_shift": [
+          0.0,
+          0.0
+        ],
+        "motion_ms": 3.3,
+        "global_ms": 40.5,
+        "detail_ms": 0.1,
+        "tiles_ms": 11.1,
+        "runtime": "onnxruntime",
+        "quality_ms": 8.0,
+        "candidate_faces": 6,
+        "verified_faces": 5,
+        "rejected_candidates": 1,
+        "verification_ms": 184.4,
+        "worker_pid": 21720,
+        "confirmed_faces": 5,
+        "pending_confirmation": 0,
+        "capture_eligible": 2,
+        "error": null
+      }
+    },
+    {
+      "sequence": 2,
+      "total_ms": 263.5,
+      "faces": 5,
+      "confirmed": 5,
+      "captures": 0,
+      "coverage": {
+        "mode": "full_discovery",
+        "raw_faces": 8,
+        "detected_faces": 5,
+        "detail_regions": 0,
+        "tile_cycle_frames": 3,
+        "camera_shift": [
+          -0.1,
+          -0.16
+        ],
+        "motion_ms": 2.9,
+        "global_ms": 42.7,
+        "detail_ms": 0.1,
+        "tiles_ms": 13.9,
+        "runtime": "onnxruntime",
+        "quality_ms": 8.9,
+        "candidate_faces": 6,
+        "verified_faces": 5,
+        "rejected_candidates": 1,
+        "verification_ms": 190.8,
+        "worker_pid": 21720,
+        "confirmed_faces": 5,
+        "pending_confirmation": 0,
+        "capture_eligible": 2,
+        "error": null
+      }
+    },
+    {
+      "sequence": 3,
+      "total_ms": 263.8,
+      "faces": 5,
+      "confirmed": 5,
+      "captures": 0,
+      "coverage": {
+        "mode": "full_discovery",
+        "raw_faces": 6,
+        "detected_faces": 5,
+        "detail_regions": 0,
+        "tile_cycle_frames": 3,
+        "camera_shift": [
+          -0.1,
+          -0.16
+        ],
+        "motion_ms": 2.7,
+        "global_ms": 45.7,
+        "detail_ms": 0.1,
+        "tiles_ms": 12.4,
+        "runtime": "onnxruntime",
+        "quality_ms": 7.9,
+        "candidate_faces": 6,
+        "verified_faces": 5,
+        "rejected_candidates": 1,
+        "verification_ms": 190.4,
+        "worker_pid": 21720,
+        "confirmed_faces": 5,
+        "pending_confirmation": 0,
+        "capture_eligible": 2,
+        "error": null
+      }
+    },
+    {
+      "sequence": 4,
+      "total_ms": 307.7,
+      "faces": 5,
+      "confirmed": 5,
+      "captures": 0,
+      "coverage": {
+        "mode": "full_discovery",
+        "raw_faces": 6,
+        "detected_faces": 5,
+        "detail_regions": 0,
+        "tile_cycle_frames": 3,
+        "camera_shift": [
+          -0.1,
+          -0.16
+        ],
+        "motion_ms": 8.4,
+        "global_ms": 65.4,
+        "detail_ms": 0.1,
+        "tiles_ms": 14.5,
+        "runtime": "onnxruntime",
+        "quality_ms": 8.1,
+        "candidate_faces": 6,
+        "verified_faces": 5,
+        "rejected_candidates": 1,
+        "verification_ms": 201.8,
+        "worker_pid": 21720,
+        "confirmed_faces": 5,
+        "pending_confirmation": 0,
+        "capture_eligible": 2,
+        "error": null
+      }
+    },
+    {
+      "sequence": 5,
+      "total_ms": 293.6,
+      "faces": 5,
+      "confirmed": 5,
+      "captures": 0,
+      "coverage": {
+        "mode": "full_discovery",
+        "raw_faces": 8,
+        "detected_faces": 5,
+        "detail_regions": 0,
+        "tile_cycle_frames": 3,
+        "camera_shift": [
+          -0.1,
+          -0.16
+        ],
+        "motion_ms": 4.3,
+        "global_ms": 45.6,
+        "detail_ms": 0.1,
+        "tiles_ms": 15.1,
+        "runtime": "onnxruntime",
+        "quality_ms": 9.4,
+        "candidate_faces": 6,
+        "verified_faces": 5,
+        "rejected_candidates": 1,
+        "verification_ms": 214.3,
+        "worker_pid": 21720,
+        "confirmed_faces": 5,
+        "pending_confirmation": 0,
+        "capture_eligible": 2,
+        "error": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "benchmark_version": "1.0.0",
+  "timestamp": "2026-11-02T12:31:57.003232",
+  "system_info": {
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+    "python_version": "3.12.14",
+    "torch_version": "2.14.1+cpu",
+    "opencv_version": "4.13.0",
+    "cpu_count_logical": 12,
+    "cpu_count_physical": 6,
+    "total_ram_gb": 15.61
+  },
+  "benchmark_config": {
+    "scenarios": [
+      1
+    ],
+    "frames_per_scenario": 5,
+    "warmup_frames": 1,
+    "resolution": "1280x720",
+    "detector_mode": "simulated"
+  },
+  "scenarios": [
+    {
+      "person_count": 1,
+      "frames_evaluated": 5,
+      "pipeline_fps": 128.38,
+      "serial_processing_fps": 129.87,
+      "latencies": {
+        "detection_ms": {
+          "mean": 0.02,
+          "median": 0.03,
+          "p95": 0.03,
+          "p99": 0.03,
+          "min": 0.02,
+          "max": 0.03,
+          "std": 0.0
+        },
+        "tracking_ms": {
+          "mean": 0.98,
+          "median": 1.03,
+          "p95": 1.08,
+          "p99": 1.08,
+          "min": 0.87,
+          "max": 1.08,
+          "std": 0.09
+        },
+        "face_pose_ms": {
+          "mean": 1.17,
+          "median": 1.17,
+          "p95": 1.25,
+          "p99": 1.26,
+          "min": 1.11,
+          "max": 1.26,
+          "std": 0.05
+        },
+        "quality_eval_ms": {
+          "mean": 0.31,
+          "median": 0.3,
+          "p95": 0.38,
+          "p99": 0.4,
+          "min": 0.28,
+          "max": 0.4,
+          "std": 0.05
+        },
+        "queue_delay_ms": {
+          "mean": 0.24,
+          "median": 0.24,
+          "p95": 0.35,
+          "p99": 0.36,
+          "min": 0.07,
+          "max": 0.36,
+          "std": 0.09
+        },
+        "total_frame_ms": {
+          "mean": 7.7,
+          "median": 7.87,
+          "p95": 8.16,
+          "p99": 8.18,
+          "min": 7.2,
+          "max": 8.19,
+          "std": 0.42
+        }
+      },
+      "resources": {
+        "cpu_usage_percent": 20.8,
+        "peak_cpu_percent": 104.2,
+        "memory_consumption_mb": 232.3,
+        "peak_memory_mb": 232.3
+      },
+      "accuracy": {
+        "ground_truth_people": 1,
+        "tracked_unique_ids": 1,
+        "id_switches": 0,
+        "id_switch_rate_per_min": 0.0,
+        "candidates_enqueued": 5,
+        "captures_saved": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+{
+  "scope": "Selected targets over repeated static search passes; not overall accuracy or temporal tracking recall",
+  "runtime": "onnxruntime",
+  "results": [
+    {
+      "image": "before.jpg",
+      "selected_targets": 4,
+      "matched_over_passes": 4,
+      "matched_first_pass": 1,
+      "target_matches": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "mean_warm_ms": 295.0,
+      "p95_warm_ms": 370.2,
+      "passes": 6,
+      "detections_for_review": [
+        {
+          "observation_id": "9878511e83fc4d9aa70b27868619fd56",
+          "track_id": 2,
+          "timestamp": 0.8,
+          "bbox": [
+            468.06,
+            1301.27,
+            495.76,
+            1337.28
+          ],
+          "confidence": 0.8559,
+          "landmarks": [
+            [
+              472.04,
+              1314.21
+            ],
+            [
+              483.68,
+              1313.89
+            ],
+            [
+              475.5,
+              1321.35
+            ],
+            [
+              473.87,
+              1328.15
+            ],
+            [
+              483.65,
+              1328.56
+            ]
+          ],
+          "pose": null,
+          "quality": null
+        },
+        {
+          "observation_id": "26ea48f4eeff42cd82c7e0da15c0dd04",
+          "track_id": 1,
+          "timestamp": 0.4,
+          "bbox": [
+            2111.27,
+            1236.58,
+            2158.16,
+            1295.47
+          ],
+          "confidence": 0.8165,
+          "landmarks": [
+            [
+              2130.38,
+              1260.9
+            ],
+            [
+              2150.02,
+              1260.89
+            ],
+            [
+              2144.18,
+              1273.23
+            ],
+            [
+              2134.4,
+              1283.67
+            ],
+            [
+              2147.85,
+              1283.58
+            ]
+          ],
+          "pose": null,
+          "quality": null
+        },
+        {
+          "observation_id": "6d51b2868b894bd493e0ae2e4374c1f0",
+          "track_id": 5,
+          "timestamp": 0.8,
+          "bbox": [
+            3416.9,
+            1167.81,
+            3465.53,
+            1244.44
+          ],
+          "confidence": 0.7265,
+          "landmarks": [
+            [
+              3425.92,
+              1197.38
+            ],
+            [
+              3430.27,
+              1199.04
+            ],
+            [
+              3417.64,
+              1211.05
+            ],
+            [
+              3425.1,
+              1223.85
+            ],
+            [
+              3426.99,
+              1225.79
+            ]
+          ],
+          "pose": null,
+          "quality": null
+        },
+        {
+          "observation_id": "73f978ef6f9042e0be85f0e71a821913",
+          "track_id": 4,
+          "timestamp": 0.4,
+          "bbox": [
+            3322.36,
+            1161.65,
+            3394.67,
+            1244.79
+          ],
+          "confidence": 0.7209,
+          "landmarks": [
+            [
+              3358.49,
+              1188.29
+            ],
+            [
+              3384.32,
+              1187.87
+            ],
+            [
+              3379.42,
+              1206.24
+            ],
+            [
+              3358.95,
+              1224.33
+            ],
+            [
+              3377.63,
+              1224.18
+            ]
+          ],
+          "pose": null,
+          "quality": null
+        },
+        {
+          "observation_id": "84b8715e70d6416facb1a7ec200b722d",
+          "track_id": 8,
+          "timestamp": 0.8,
+          "bbox": [
+            3357.24,
+            1224.88,
+            3409.45,
+            1289.17
+          ],
+          "confidence": 0.5218,
+          "landmarks": [
+            [
+              3371.42,
+              1245.74
+            ],
+            [
+              3381.99,
+              1246.43
+            ],
+            [
+              3369.53,
+              1259.48
+            ],
+            [
+              3370.98,
+              1271.77
+            ],
+            [
+              3377.8,
+              1273.81
+            ]
+          ],
+          "pose": null,
+          "quality": null
+        }
+      ]
+    },
+    {
+      "image": "second.jpg",
+      "selected_targets": 8,
+      "matched_over_passes": 8,
+      "matched_first_pass": 7,
+      "target_matches": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "mean_warm_ms": 231.2,
+      "p95_warm_ms": 277.6,
+      "passes": 6,
+      "detections_for_review": [
+        {
+          "observation_id": "4f9adda79fe64078aa4d42c1a527612c",
+          "track_id": 7,
+          "timestamp": 0.4,
+          "bbox": [
+            1118.16,
+            1180.54,
+            1147.74,
+            1215.29
+          ],
+          "confidence": 0.8762,
+          "landmarks": [
+            [
+              1124.2,
+              1193.4
+            ],
+            [
+              1137.28,
+              1193.18
+            ],
+            [
+              1128.88,
+              1200.73
+            ],
+            [
+              1124.97,
+              1206.33
+            ],
+            [
+              1135.41,
+              1207.29
+            ]
+          ],
+          "pose": null,
+          "quality": null
+        },
+        {
+          "observation_id": "49d621aa29fd4255ac06f8abfe4d9110",
+          "track_id": 1,
+          "timestamp": 0.0,
+          "bbox": [
+            294.03,
+            753.35,
+            416.75,
+            907.48
+          ],
+          "confidence": 0.8606,
+          "landmarks": [
+            [
+              320.51,
+              819.18
+            ],
+            [
+              347.99,
+              821.32
+            ],
+            [
+              320.24,
+              850.4
+            ],
+            [
+              325.77,
+              862.2
+            ],
+            [
+              344.8,
+              875.69
+            ]
+          ],
+          "pose": null,
+          "quality": null
+        },
+        {
+          "observation_id": "0201f1c7f011462596cff244312f0bb7",
+          "track_id": 9,
+          "timestamp": 0.6000000000000001,
+          "bbox": [
+            2591.08,
+            1258.83,
+            2617.49,
+            1290.08
+          ],
+          "confidence": 0.8572,
+          "landmarks": [
+            [
+              2596.85,
+              1270.52
+            ],
+            [
+              2607.79,
+              1270.16
+            ],
+            [
+              2601.43,
+              1276.34
+            ],
+            [
+              2598.75,
+              1281.92
+            ],
+            [
+              2607.14,
+              1282.13
+            ]
+          ],
+          "pose": null,
+          "quality": null
+        },
+        {
+          "observation_id": "d1312f6ef0124ee8ae67c4755032ba12",
+          "track_id": 2,
+          "timestamp": 0.2,
+          "bbox": [
+            2869.19,
+            974.95,
+            2948.51,
+            1071.25
+          ],
+          "confidence": 0.8509,
+          "landmarks": [
+            [
+              2917.44,
+              1004.6
+            ],
+            [
+              2940.18,
+              1005.35
+            ],
+            [
+              2942.43,
+              1024.92
+            ],
+            [
+              2918.55,
+              1045.81
+            ],
+            [
+              2934.59,
+              1046.28
+            ]
+          ],
+          "pose": null,
+          "quality": null
+        },
+        {
+          "observation_id": "185868162df247cda44fd4f2dda296e0",
+          "track_id": 3,
+          "timestamp": 0.2,
+          "bbox": [
+            1492.35,
+            1164.27,
+            1526.32,
+            1208.37
+          ],
+          "confidence": 0.8198,
+          "landmarks": [
+            [
+              1504.72,
+              1183.06
+            ],
+            [
+              1521.64,
+              1183.52
+            ],
+            [
+              1514.44,
+              1191.21
+            ],
+            [
+              1505.89,
+              1197.82
+            ],
+            [
+              1520.02,
+              1199.69
+            ]
+          ],
+          "pose": null,
+          "quality": null
+        },
+        {
+          "observation_id": "a7306164184b4d9995fb2021e7fa6663",
+          "track_id": 4,
+          "timestamp": 0.4,
+          "bbox": [
+            3230.71,
+            1246.57,
+            3279.53,
+            1303.28
+          ],
+          "confidence": 0.8169,
+          "landmarks": [
+            [
+              3243.56,
+              1274.55
+            ],
+            [
+              3267.01,
+              1275.36
+            ],
+            [
+              3254.92,
+              1284.39
+            ],
+            [
+              3247.6,
+              1292.8
+            ],
+            [
+              3266.5,
+              1294.66
+            ]
+          ],
+          "pose": null,
+          "quality": null
+        },
+        {
+          "observation_id": "94041d07a6b7448b97be5284e8c0899a",
+          "track_id": 6,
+          "timestamp": 0.4,
+          "bbox": [
+            3742.21,
+            1171.02,
+            3810.61,
+            1256.29
+          ],
+          "confidence": 0.7882,
+          "landmarks": [
+            [
+              3750.99,
+              1202.42
+            ],
+            [
+              3774.26,
+              1201.01
+            ],
+            [
+              3751.71,
+              1216.26
+            ],
+            [
+              3752.69,
+              1233.69
+            ],
+            [
+              3768.78,
+              1232.83
+            ]
+          ],
+          "pose": null,
+          "quality": null
+        },
+        {
+          "observation_id": "1287fba947a845c1a8752a60cade1c76",
+          "track_id": 5,
+          "timestamp": 0.4,
+          "bbox": [
+            3456.73,
+            1219.81,
+            3519.3,
+            1298.06
+          ],
+          "confidence": 0.7371,
+          "landmarks": [
+            [
+              3465.56,
+              1248.05
+            ],
+            [
+              3479.57,
+              1248.64
+            ],
+            [
+              3463.92,
+              1265.39
+            ],
+            [
+              3471.79,
+              1279.17
+            ],
+            [
+              3482.39,
+              1282.72
+            ]
+          ],
+          "pose": null,
+          "quality": null
+        },
+        {
+          "observation_id": "face_unassigned_0ac896da",
+          "track_id": 8,
+          "timestamp": 0.0,
+          "bbox": [
+            3165.6,
+            1226.41,
+            3213.44,
+            1285.53
+          ],
+          "confidence": 0.5444,
+          "landmarks": [
+            [
+              3178.29,
+              1253.16
+            ],
+            [
+              3202.78,
+              1255.75
+            ],
+            [
+              3190.69,
+              1267.13
+            ],
+            [
+              3185.21,
+              1273.27
+            ],
+            [
+              3204.28,
+              1277.0
+            ]
+          ],
+          "pose": null,
+          "quality": null
+        }
+      ]
+    }
+  ]
+}
