@@ -1,0 +1,30 @@
+{
+  "model": "yolo26n",
+  "resolution": 640,
+  "source_shape": [
+    1080,
+    1920,
+    3
+  ],
+  "device": "cpu",
+  "backend": "pytorch",
+  "torch_version": "2.14.1+cpu",
+  "cpu": "Intel64 Family 6 Model 166 Stepping 0, GenuineIntel",
+  "torch_threads": 4,
+  "iterations": 40,
+  "inference_mean_ms": 42.54857250780333,
+  "inference_p95_ms": 57.60386995971201,
+  "tracker_mean_ms": 1.1596950003877282,
+  "serial_processing_fps": 22.878966772421194,
+  "detections_per_frame": 10.325,
+  "tracked_ids": 12,
+  "stage_mean_ms": {
+    "preprocess": 2.015687501989305,
+    "inference": 38.615184993250296,
+    "postprocess": 0.979342486243695
+  },
+  "source_kind": "successive_video_frames",
+  "source": "linkedin-southampton-traffic-fixed.mp4",
+  "stride": 2,
+  "note": "Excludes decoding, network, browser relay and event persistence. Throughput benchmark, not a tracking accuracy evaluation."
+}

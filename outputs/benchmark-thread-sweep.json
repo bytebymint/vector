@@ -1,0 +1,65 @@
+[
+  {
+    "threads": 6,
+    "mean_ms": 44.28705833076189,
+    "p95_ms": 55.08262500516139,
+    "vehicles": 11,
+    "boxes_unchanged": true
+  },
+  {
+    "threads": 4,
+    "mean_ms": 40.839866657430925,
+    "p95_ms": 47.19406999065541,
+    "vehicles": 11,
+    "boxes_unchanged": true
+  },
+  {
+    "threads": 3,
+    "mean_ms": 42.076533330449216,
+    "p95_ms": 46.42564000678249,
+    "vehicles": 11,
+    "boxes_unchanged": true
+  },
+  {
+    "threads": 2,
+    "mean_ms": 47.69778332168547,
+    "p95_ms": 49.992479948559776,
+    "vehicles": 11,
+    "boxes_unchanged": true
+  },
+  {
+    "threads": 1,
+    "mean_ms": 69.40156665708248,
+    "p95_ms": 73.09901497210376,
+    "vehicles": 11,
+    "boxes_unchanged": true
+  },
+  {
+    "threads": 6,
+    "mean_ms": 48.34837501402944,
+    "p95_ms": 57.72854496026411,
+    "vehicles": 11,
+    "boxes_unchanged": true
+  },
+  {
+    "threads": 4,
+    "mean_ms": 42.58405001019128,
+    "p95_ms": 53.19957500323653,
+    "vehicles": 11,
+    "boxes_unchanged": true
+  },
+  {
+    "threads": 3,
+    "mean_ms": 42.95601665702028,
+    "p95_ms": 50.6255549902562,
+    "vehicles": 11,
+    "boxes_unchanged": true
+  },
+  {
+    "threads": 2,
+    "mean_ms": 51.185100009509675,
+    "p95_ms": 60.08897501160391,
+    "vehicles": 11,
+    "boxes_unchanged": true
+  }
+]

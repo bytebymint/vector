@@ -1,0 +1,17 @@
+{
+  "model": "yolo26s",
+  "resolution": 640,
+  "source_shape": [
+    432,
+    768,
+    3
+  ],
+  "device": "cpu",
+  "iterations": 30,
+  "inference_mean_ms": 85.94645668054,
+  "inference_p95_ms": 90.9324399952311,
+  "tracker_mean_ms": 1.2322133251776297,
+  "serial_processing_fps": 11.470695755445854,
+  "detections_per_frame": 14,
+  "note": "Repeated real frame; excludes network, browser relay and event persistence. Not a tracking accuracy evaluation."
+}
