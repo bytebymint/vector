@@ -1,0 +1,105 @@
+{
+  "python_regression_tests_passed": 435,
+  "additional_worker_cleanup_tests_passed": 2,
+  "javascript_suites": "passed",
+  "live_samples": [
+    {
+      "face_fps": 0.0,
+      "analysis_ms": 1403.97,
+      "coverage": {
+        "capture_eligible": 2,
+        "confirmed_faces": 2,
+        "detail_ms": 405.2,
+        "detail_regions": 4,
+        "detected_faces": 4,
+        "error": null,
+        "global_ms": 175.9,
+        "motion_ms": 186.7,
+        "pending_confirmation": 2,
+        "quality_ms": 56.1,
+        "raw_faces": 6,
+        "runtime": "onnxruntime",
+        "tile_cycle_frames": 3,
+        "tiles_ms": 333.1,
+        "worker_pid": 16640
+      },
+      "counts": {
+        "active_tracks": 0,
+        "pending_enhancements": 0,
+        "total_captures": 2298,
+        "total_profiles": 1080
+      },
+      "source_size": [
+        3840,
+        2160
+      ],
+      "source_state": "live"
+    },
+    {
+      "face_fps": 0.7,
+      "analysis_ms": 671.02,
+      "coverage": {
+        "capture_eligible": 0,
+        "confirmed_faces": 0,
+        "detail_ms": 240.1,
+        "detail_regions": 4,
+        "detected_faces": 2,
+        "error": null,
+        "global_ms": 165.1,
+        "motion_ms": 96.7,
+        "pending_confirmation": 2,
+        "quality_ms": 9.9,
+        "raw_faces": 4,
+        "runtime": "onnxruntime",
+        "tile_cycle_frames": 3,
+        "tiles_ms": 128.9,
+        "worker_pid": 16640
+      },
+      "counts": {
+        "active_tracks": 0,
+        "pending_enhancements": 0,
+        "total_captures": 2298,
+        "total_profiles": 1080
+      },
+      "source_size": [
+        3840,
+        2160
+      ],
+      "source_state": "live"
+    },
+    {
+      "face_fps": 0.0,
+      "analysis_ms": 671.02,
+      "coverage": {
+        "capture_eligible": 0,
+        "confirmed_faces": 0,
+        "detail_ms": 240.1,
+        "detail_regions": 4,
+        "detected_faces": 2,
+        "error": null,
+        "global_ms": 165.1,
+        "motion_ms": 96.7,
+        "pending_confirmation": 2,
+        "quality_ms": 9.9,
+        "raw_faces": 4,
+        "runtime": "onnxruntime",
+        "tile_cycle_frames": 3,
+        "tiles_ms": 128.9,
+        "worker_pid": 16640
+      },
+      "counts": {
+        "active_tracks": 0,
+        "pending_enhancements": 0,
+        "total_captures": 2298,
+        "total_profiles": 1080
+      },
+      "source_size": [
+        3840,
+        2160
+      ],
+      "source_state": "live"
+    }
+  ],
+  "selected_target_benchmark": "data/face_coverage_benchmark.json",
+  "scope": "Selected-target static replay is not overall accuracy. Live throughput varies with playback and CPU load."
+}

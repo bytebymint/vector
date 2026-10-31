@@ -1,0 +1,1226 @@
+{
+  "seconds": 15.1,
+  "samples": 25,
+  "native_resolution": [
+    1920,
+    1080
+  ],
+  "camera_fps_median": 30.0,
+  "inference_fps_median": 5.4,
+  "analytics_latency_ms_median": 178.1,
+  "stale_samples": 0,
+  "actual_speed_readings": [
+    {
+      "id": 2509,
+      "kmh": 0.3,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2732,
+      "kmh": 20.8,
+      "lane": null
+    },
+    {
+      "id": 2554,
+      "kmh": 0.2,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2666,
+      "kmh": 19.9,
+      "lane": null
+    },
+    {
+      "id": 2747,
+      "kmh": 2.6,
+      "lane": null
+    },
+    {
+      "id": 2713,
+      "kmh": 23.2,
+      "lane": null
+    },
+    {
+      "id": 2375,
+      "kmh": 0.4,
+      "lane": null
+    },
+    {
+      "id": 1212,
+      "kmh": 0.7,
+      "lane": "Town Quay \u00b7 far lane 2"
+    },
+    {
+      "id": 2674,
+      "kmh": 8.0,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2760,
+      "kmh": 25.6,
+      "lane": null
+    },
+    {
+      "id": 2509,
+      "kmh": 0.1,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2732,
+      "kmh": 23.6,
+      "lane": null
+    },
+    {
+      "id": 2554,
+      "kmh": 0.1,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2666,
+      "kmh": 19.5,
+      "lane": null
+    },
+    {
+      "id": 2713,
+      "kmh": 22.0,
+      "lane": null
+    },
+    {
+      "id": 2375,
+      "kmh": 0.2,
+      "lane": null
+    },
+    {
+      "id": 1212,
+      "kmh": 4.8,
+      "lane": "Town Quay \u00b7 far lane 2"
+    },
+    {
+      "id": 2674,
+      "kmh": 7.2,
+      "lane": "Town Quay \u00b7 near lane 2"
+    },
+    {
+      "id": 2776,
+      "kmh": 18.0,
+      "lane": null
+    },
+    {
+      "id": 2760,
+      "kmh": 24.1,
+      "lane": null
+    },
+    {
+      "id": 2509,
+      "kmh": 0.1,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2732,
+      "kmh": 24.0,
+      "lane": null
+    },
+    {
+      "id": 2554,
+      "kmh": 0.1,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2713,
+      "kmh": 18.2,
+      "lane": null
+    },
+    {
+      "id": 2375,
+      "kmh": 0.8,
+      "lane": null
+    },
+    {
+      "id": 1212,
+      "kmh": 4.1,
+      "lane": "Town Quay \u00b7 far lane 2"
+    },
+    {
+      "id": 2674,
+      "kmh": 6.2,
+      "lane": "Town Quay \u00b7 near lane 2"
+    },
+    {
+      "id": 2776,
+      "kmh": 20.7,
+      "lane": null
+    },
+    {
+      "id": 2760,
+      "kmh": 23.8,
+      "lane": null
+    },
+    {
+      "id": 2509,
+      "kmh": 0.1,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2732,
+      "kmh": 24.0,
+      "lane": null
+    },
+    {
+      "id": 2554,
+      "kmh": 0.1,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2713,
+      "kmh": 18.2,
+      "lane": null
+    },
+    {
+      "id": 2375,
+      "kmh": 0.8,
+      "lane": null
+    },
+    {
+      "id": 1212,
+      "kmh": 4.1,
+      "lane": "Town Quay \u00b7 far lane 2"
+    },
+    {
+      "id": 2674,
+      "kmh": 6.2,
+      "lane": "Town Quay \u00b7 near lane 2"
+    },
+    {
+      "id": 2776,
+      "kmh": 20.7,
+      "lane": null
+    },
+    {
+      "id": 2760,
+      "kmh": 23.8,
+      "lane": null
+    },
+    {
+      "id": 2509,
+      "kmh": 0.0,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 1212,
+      "kmh": 3.4,
+      "lane": "Town Quay \u00b7 far lane 2"
+    },
+    {
+      "id": 2732,
+      "kmh": 25.4,
+      "lane": null
+    },
+    {
+      "id": 2554,
+      "kmh": 0.2,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2713,
+      "kmh": 21.3,
+      "lane": null
+    },
+    {
+      "id": 2375,
+      "kmh": 0.8,
+      "lane": null
+    },
+    {
+      "id": 2674,
+      "kmh": 7.3,
+      "lane": "Town Quay \u00b7 near lane 2"
+    },
+    {
+      "id": 2776,
+      "kmh": 21.2,
+      "lane": null
+    },
+    {
+      "id": 2760,
+      "kmh": 24.3,
+      "lane": null
+    },
+    {
+      "id": 2509,
+      "kmh": 0.0,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2853,
+      "kmh": 28.5,
+      "lane": null
+    },
+    {
+      "id": 2554,
+      "kmh": 0.0,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2852,
+      "kmh": 23.3,
+      "lane": null
+    },
+    {
+      "id": 2713,
+      "kmh": 17.0,
+      "lane": null
+    },
+    {
+      "id": 2854,
+      "kmh": 23.0,
+      "lane": null
+    },
+    {
+      "id": 2375,
+      "kmh": 0.0,
+      "lane": null
+    },
+    {
+      "id": 1212,
+      "kmh": 1.8,
+      "lane": "Town Quay \u00b7 far lane 2"
+    },
+    {
+      "id": 2760,
+      "kmh": 20.3,
+      "lane": null
+    },
+    {
+      "id": 2509,
+      "kmh": 0.0,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2853,
+      "kmh": 26.9,
+      "lane": null
+    },
+    {
+      "id": 2554,
+      "kmh": 0.0,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2852,
+      "kmh": 19.6,
+      "lane": null
+    },
+    {
+      "id": 2862,
+      "kmh": 25.2,
+      "lane": null
+    },
+    {
+      "id": 2713,
+      "kmh": 19.9,
+      "lane": null
+    },
+    {
+      "id": 2854,
+      "kmh": 21.7,
+      "lane": null
+    },
+    {
+      "id": 2375,
+      "kmh": 0.0,
+      "lane": null
+    },
+    {
+      "id": 1212,
+      "kmh": 0.3,
+      "lane": "Town Quay \u00b7 far lane 2"
+    },
+    {
+      "id": 2760,
+      "kmh": 21.5,
+      "lane": null
+    },
+    {
+      "id": 2509,
+      "kmh": 0.3,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2853,
+      "kmh": 27.6,
+      "lane": null
+    },
+    {
+      "id": 2554,
+      "kmh": 0.1,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2852,
+      "kmh": 23.0,
+      "lane": null
+    },
+    {
+      "id": 2862,
+      "kmh": 30.6,
+      "lane": null
+    },
+    {
+      "id": 2713,
+      "kmh": 22.4,
+      "lane": null
+    },
+    {
+      "id": 2854,
+      "kmh": 20.8,
+      "lane": null
+    },
+    {
+      "id": 2375,
+      "kmh": 0.0,
+      "lane": null
+    },
+    {
+      "id": 1212,
+      "kmh": 0.0,
+      "lane": "Town Quay \u00b7 far lane 2"
+    },
+    {
+      "id": 2760,
+      "kmh": 18.6,
+      "lane": null
+    },
+    {
+      "id": 2509,
+      "kmh": 0.0,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2853,
+      "kmh": 26.0,
+      "lane": null
+    },
+    {
+      "id": 2554,
+      "kmh": 0.0,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2852,
+      "kmh": 23.2,
+      "lane": null
+    },
+    {
+      "id": 2862,
+      "kmh": 29.9,
+      "lane": null
+    },
+    {
+      "id": 2854,
+      "kmh": 20.2,
+      "lane": null
+    },
+    {
+      "id": 2375,
+      "kmh": 0.0,
+      "lane": null
+    },
+    {
+      "id": 1212,
+      "kmh": 0.4,
+      "lane": "Town Quay \u00b7 far lane 2"
+    },
+    {
+      "id": 2760,
+      "kmh": 20.3,
+      "lane": null
+    },
+    {
+      "id": 2509,
+      "kmh": 0.0,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2853,
+      "kmh": 23.9,
+      "lane": null
+    },
+    {
+      "id": 2554,
+      "kmh": 0.1,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2852,
+      "kmh": 19.0,
+      "lane": null
+    },
+    {
+      "id": 2862,
+      "kmh": 26.9,
+      "lane": null
+    },
+    {
+      "id": 2855,
+      "kmh": 23.7,
+      "lane": null
+    },
+    {
+      "id": 2909,
+      "kmh": 21.8,
+      "lane": null
+    },
+    {
+      "id": 2854,
+      "kmh": 19.0,
+      "lane": null
+    },
+    {
+      "id": 2375,
+      "kmh": 0.0,
+      "lane": null
+    },
+    {
+      "id": 1212,
+      "kmh": 0.2,
+      "lane": "Town Quay \u00b7 far lane 2"
+    },
+    {
+      "id": 2509,
+      "kmh": 0.0,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2853,
+      "kmh": 23.9,
+      "lane": null
+    },
+    {
+      "id": 2554,
+      "kmh": 0.1,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2852,
+      "kmh": 19.0,
+      "lane": null
+    },
+    {
+      "id": 2862,
+      "kmh": 26.9,
+      "lane": null
+    },
+    {
+      "id": 2855,
+      "kmh": 23.7,
+      "lane": null
+    },
+    {
+      "id": 2909,
+      "kmh": 21.8,
+      "lane": null
+    },
+    {
+      "id": 2854,
+      "kmh": 19.0,
+      "lane": null
+    },
+    {
+      "id": 2375,
+      "kmh": 0.0,
+      "lane": null
+    },
+    {
+      "id": 1212,
+      "kmh": 0.2,
+      "lane": "Town Quay \u00b7 far lane 2"
+    },
+    {
+      "id": 2509,
+      "kmh": 0.0,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2554,
+      "kmh": 0.2,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2852,
+      "kmh": 18.2,
+      "lane": null
+    },
+    {
+      "id": 2862,
+      "kmh": 27.6,
+      "lane": null
+    },
+    {
+      "id": 2855,
+      "kmh": 24.3,
+      "lane": null
+    },
+    {
+      "id": 2909,
+      "kmh": 22.5,
+      "lane": null
+    },
+    {
+      "id": 2854,
+      "kmh": 20.4,
+      "lane": null
+    },
+    {
+      "id": 2375,
+      "kmh": 0.0,
+      "lane": null
+    },
+    {
+      "id": 1212,
+      "kmh": 1.0,
+      "lane": "Town Quay \u00b7 far lane 2"
+    },
+    {
+      "id": 2929,
+      "kmh": 2.0,
+      "lane": null
+    },
+    {
+      "id": 2955,
+      "kmh": 0.4,
+      "lane": null
+    },
+    {
+      "id": 2509,
+      "kmh": 0.0,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2554,
+      "kmh": 0.1,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2972,
+      "kmh": 2.8,
+      "lane": null
+    },
+    {
+      "id": 2855,
+      "kmh": 22.3,
+      "lane": null
+    },
+    {
+      "id": 2909,
+      "kmh": 19.1,
+      "lane": null
+    },
+    {
+      "id": 2854,
+      "kmh": 16.5,
+      "lane": null
+    },
+    {
+      "id": 2375,
+      "kmh": 0.0,
+      "lane": null
+    },
+    {
+      "id": 1212,
+      "kmh": 0.4,
+      "lane": "Town Quay \u00b7 far lane 2"
+    },
+    {
+      "id": 2971,
+      "kmh": 23.6,
+      "lane": null
+    },
+    {
+      "id": 2929,
+      "kmh": 0.1,
+      "lane": null
+    },
+    {
+      "id": 2955,
+      "kmh": 0.3,
+      "lane": null
+    },
+    {
+      "id": 2509,
+      "kmh": 0.0,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2554,
+      "kmh": 0.0,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2972,
+      "kmh": 1.5,
+      "lane": null
+    },
+    {
+      "id": 2855,
+      "kmh": 22.1,
+      "lane": null
+    },
+    {
+      "id": 2909,
+      "kmh": 20.6,
+      "lane": null
+    },
+    {
+      "id": 2854,
+      "kmh": 19.8,
+      "lane": null
+    },
+    {
+      "id": 2375,
+      "kmh": 0.0,
+      "lane": null
+    },
+    {
+      "id": 1212,
+      "kmh": 0.1,
+      "lane": "Town Quay \u00b7 far lane 2"
+    },
+    {
+      "id": 2971,
+      "kmh": 24.2,
+      "lane": null
+    },
+    {
+      "id": 2929,
+      "kmh": 0.1,
+      "lane": null
+    },
+    {
+      "id": 2955,
+      "kmh": 1.0,
+      "lane": null
+    },
+    {
+      "id": 2509,
+      "kmh": 0.2,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2554,
+      "kmh": 0.0,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2972,
+      "kmh": 1.4,
+      "lane": null
+    },
+    {
+      "id": 2855,
+      "kmh": 23.4,
+      "lane": null
+    },
+    {
+      "id": 2909,
+      "kmh": 19.1,
+      "lane": null
+    },
+    {
+      "id": 2375,
+      "kmh": 0.0,
+      "lane": null
+    },
+    {
+      "id": 1212,
+      "kmh": 0.0,
+      "lane": "Town Quay \u00b7 far lane 2"
+    },
+    {
+      "id": 2971,
+      "kmh": 25.4,
+      "lane": null
+    },
+    {
+      "id": 2929,
+      "kmh": 0.1,
+      "lane": null
+    },
+    {
+      "id": 2955,
+      "kmh": 0.4,
+      "lane": null
+    },
+    {
+      "id": 2509,
+      "kmh": 0.2,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2554,
+      "kmh": 0.1,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2855,
+      "kmh": 19.5,
+      "lane": null
+    },
+    {
+      "id": 2909,
+      "kmh": 19.0,
+      "lane": null
+    },
+    {
+      "id": 2375,
+      "kmh": 0.0,
+      "lane": null
+    },
+    {
+      "id": 1212,
+      "kmh": 0.1,
+      "lane": "Town Quay \u00b7 far lane 2"
+    },
+    {
+      "id": 2993,
+      "kmh": 19.2,
+      "lane": null
+    },
+    {
+      "id": 2971,
+      "kmh": 23.8,
+      "lane": null
+    },
+    {
+      "id": 2929,
+      "kmh": 0.2,
+      "lane": null
+    },
+    {
+      "id": 2955,
+      "kmh": 0.1,
+      "lane": null
+    },
+    {
+      "id": 2509,
+      "kmh": 0.2,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2554,
+      "kmh": 0.0,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2972,
+      "kmh": 1.6,
+      "lane": null
+    },
+    {
+      "id": 2909,
+      "kmh": 19.9,
+      "lane": null
+    },
+    {
+      "id": 2375,
+      "kmh": 0.0,
+      "lane": null
+    },
+    {
+      "id": 1212,
+      "kmh": 0.4,
+      "lane": "Town Quay \u00b7 far lane 2"
+    },
+    {
+      "id": 2993,
+      "kmh": 23.1,
+      "lane": null
+    },
+    {
+      "id": 2971,
+      "kmh": 23.7,
+      "lane": null
+    },
+    {
+      "id": 2929,
+      "kmh": 0.1,
+      "lane": null
+    },
+    {
+      "id": 2955,
+      "kmh": 0.1,
+      "lane": null
+    },
+    {
+      "id": 2509,
+      "kmh": 0.4,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2554,
+      "kmh": 0.0,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2972,
+      "kmh": 0.4,
+      "lane": null
+    },
+    {
+      "id": 2909,
+      "kmh": 19.7,
+      "lane": null
+    },
+    {
+      "id": 2375,
+      "kmh": 0.0,
+      "lane": null
+    },
+    {
+      "id": 1212,
+      "kmh": 0.3,
+      "lane": "Town Quay \u00b7 far lane 2"
+    },
+    {
+      "id": 2993,
+      "kmh": 23.3,
+      "lane": null
+    },
+    {
+      "id": 2971,
+      "kmh": 23.6,
+      "lane": null
+    },
+    {
+      "id": 2929,
+      "kmh": 0.1,
+      "lane": null
+    },
+    {
+      "id": 2955,
+      "kmh": 0.1,
+      "lane": null
+    },
+    {
+      "id": 2509,
+      "kmh": 0.4,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2554,
+      "kmh": 0.0,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2972,
+      "kmh": 0.4,
+      "lane": null
+    },
+    {
+      "id": 2909,
+      "kmh": 19.7,
+      "lane": null
+    },
+    {
+      "id": 2375,
+      "kmh": 0.0,
+      "lane": null
+    },
+    {
+      "id": 1212,
+      "kmh": 0.3,
+      "lane": "Town Quay \u00b7 far lane 2"
+    },
+    {
+      "id": 2993,
+      "kmh": 23.3,
+      "lane": null
+    },
+    {
+      "id": 2971,
+      "kmh": 23.6,
+      "lane": null
+    },
+    {
+      "id": 2929,
+      "kmh": 0.1,
+      "lane": null
+    },
+    {
+      "id": 2955,
+      "kmh": 0.8,
+      "lane": null
+    },
+    {
+      "id": 2509,
+      "kmh": 0.2,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2554,
+      "kmh": 0.4,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2972,
+      "kmh": 3.6,
+      "lane": null
+    },
+    {
+      "id": 2855,
+      "kmh": 21.5,
+      "lane": null
+    },
+    {
+      "id": 2909,
+      "kmh": 19.8,
+      "lane": null
+    },
+    {
+      "id": 2375,
+      "kmh": 0.0,
+      "lane": null
+    },
+    {
+      "id": 1212,
+      "kmh": 1.5,
+      "lane": "Town Quay \u00b7 far lane 2"
+    },
+    {
+      "id": 2993,
+      "kmh": 23.6,
+      "lane": null
+    },
+    {
+      "id": 2971,
+      "kmh": 23.9,
+      "lane": null
+    },
+    {
+      "id": 2929,
+      "kmh": 0.6,
+      "lane": null
+    },
+    {
+      "id": 2955,
+      "kmh": 0.5,
+      "lane": null
+    },
+    {
+      "id": 2509,
+      "kmh": 0.0,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2554,
+      "kmh": 0.0,
+      "lane": "Town Quay \u00b7 near lane 1"
+    },
+    {
+      "id": 2972,
+      "kmh": 8.4,
+      "lane": null
+    },
+    {
+      "id": 3044,
+      "kmh": 33.6,
+      "lane": null
+    },
+    {
+      "id": 1212,
+      "kmh": 1.7,
+      "lane": "Town Quay \u00b7 far lane 2"
+    },
+    {
+      "id": 2993,
+      "kmh": 23.6,
+      "lane": null
+    },
+    {
+      "id": 2971,
+      "kmh": 18.8,
+      "lane": null
+    },
+    {
+      "id": 2929,
+      "kmh": 0.3,
+      "lane": null
+    }
+  ],
+  "rows": [
+    {
+      "camera_fps": 29.89566613129159,
+      "inference_fps": 6.346133161220821,
+      "latency_ms": 188.59386444091797,
+      "state": "live",
+      "age": 0.0050601959228515625
+    },
+    {
+      "camera_fps": 29.985912658937824,
+      "inference_fps": 6.612867070148454,
+      "latency_ms": 212.15343475341797,
+      "state": "live",
+      "age": 0.01627945899963379
+    },
+    {
+      "camera_fps": 32.54696373976996,
+      "inference_fps": 6.589233861941259,
+      "latency_ms": 172.78718948364258,
+      "state": "live",
+      "age": 0.4430828094482422
+    },
+    {
+      "camera_fps": 32.54696373976996,
+      "inference_fps": 6.589233861941259,
+      "latency_ms": 172.78718948364258,
+      "state": "live",
+      "age": 0.9694576263427734
+    },
+    {
+      "camera_fps": 26.712083184035013,
+      "inference_fps": 6.0222517096944586,
+      "latency_ms": 134.60302352905273,
+      "state": "live",
+      "age": 0.006812572479248047
+    },
+    {
+      "camera_fps": 29.985912658235303,
+      "inference_fps": 5.974683544303797,
+      "latency_ms": 177.81782150268555,
+      "state": "live",
+      "age": 0.010733604431152344
+    },
+    {
+      "camera_fps": 30.07670569220583,
+      "inference_fps": 5.937405655609883,
+      "latency_ms": 145.61891555786133,
+      "state": "live",
+      "age": 0.030256032943725586
+    },
+    {
+      "camera_fps": 29.985912658937824,
+      "inference_fps": 5.918346875289144,
+      "latency_ms": 160.49981117248535,
+      "state": "live",
+      "age": 0.02135324478149414
+    },
+    {
+      "camera_fps": 29.889669007104825,
+      "inference_fps": 5.827160493827161,
+      "latency_ms": 143.6138153076172,
+      "state": "live",
+      "age": 0.030069351196289062
+    },
+    {
+      "camera_fps": 29.985912658235303,
+      "inference_fps": 5.791695297909142,
+      "latency_ms": 196.0465908050537,
+      "state": "live",
+      "age": 0.006376028060913086
+    },
+    {
+      "camera_fps": 37.84607569182013,
+      "inference_fps": 5.7387413675941215,
+      "latency_ms": 211.98368072509766,
+      "state": "live",
+      "age": 0.27675342559814453
+    },
+    {
+      "camera_fps": 37.84607569182013,
+      "inference_fps": 5.7387413675941215,
+      "latency_ms": 211.98368072509766,
+      "state": "live",
+      "age": 0.8132917881011963
+    },
+    {
+      "camera_fps": 30.37097431669566,
+      "inference_fps": 5.440796753944766,
+      "latency_ms": 152.48537063598633,
+      "state": "live",
+      "age": 0.0051686763763427734
+    },
+    {
+      "camera_fps": 29.985912658235303,
+      "inference_fps": 5.378794785283945,
+      "latency_ms": 178.13777923583984,
+      "state": "live",
+      "age": 0.0091400146484375
+    },
+    {
+      "camera_fps": 29.89566613129159,
+      "inference_fps": 5.3945323215179775,
+      "latency_ms": 144.1338062286377,
+      "state": "live",
+      "age": 0.00464320182800293
+    },
+    {
+      "camera_fps": 29.8,
+      "inference_fps": 5.32587109587553,
+      "latency_ms": 184.30066108703613,
+      "state": "live",
+      "age": 0.0032663345336914062
+    },
+    {
+      "camera_fps": 29.985912658235303,
+      "inference_fps": 5.363636363636363,
+      "latency_ms": 164.11304473876953,
+      "state": "live",
+      "age": 0.05792546272277832
+    },
+    {
+      "camera_fps": 29.985912658235303,
+      "inference_fps": 5.363636363636363,
+      "latency_ms": 220.2916145324707,
+      "state": "live",
+      "age": 0.011963367462158203
+    },
+    {
+      "camera_fps": 37.550403225868145,
+      "inference_fps": 5.440796754003176,
+      "latency_ms": 234.38239097595215,
+      "state": "live",
+      "age": 0.23438239097595215
+    },
+    {
+      "camera_fps": 37.550403225868145,
+      "inference_fps": 5.440796754003176,
+      "latency_ms": 234.38239097595215,
+      "state": "live",
+      "age": 0.7663266658782959
+    },
+    {
+      "camera_fps": 37.550403225868145,
+      "inference_fps": 5.440796754003176,
+      "latency_ms": 234.38239097595215,
+      "state": "live",
+      "age": 1.2795615196228027
+    },
+    {
+      "camera_fps": 27.63865702064573,
+      "inference_fps": 4.988163679364348,
+      "latency_ms": 178.19952964782715,
+      "state": "live",
+      "age": 0.04880023002624512
+    },
+    {
+      "camera_fps": 28.044419348949063,
+      "inference_fps": 5.295754420634682,
+      "latency_ms": 204.55193519592285,
+      "state": "live",
+      "age": 0.07889556884765625
+    },
+    {
+      "camera_fps": 30.082778113691557,
+      "inference_fps": 5.200987306046092,
+      "latency_ms": 141.99519157409668,
+      "state": "live",
+      "age": 0.0420231819152832
+    },
+    {
+      "camera_fps": 29.985912658235303,
+      "inference_fps": 5.2444444444444445,
+      "latency_ms": 139.89877700805664,
+      "state": "live",
+      "age": 0.0232241153717041
+    }
+  ]
+}

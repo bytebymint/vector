@@ -1,0 +1,48 @@
+{
+  "regression_tests_passed": 422,
+  "final_face_tests_passed": 12,
+  "javascript_checks": "passed",
+  "settings": {
+    "person_input": 640,
+    "face_input": 320,
+    "minimum_native_face_pixels": 160,
+    "minimum_selection_score": 70,
+    "original_encoding": "lossless PNG",
+    "enhancement_default": false
+  },
+  "samples": [
+    {
+      "source_width": 3840,
+      "source_height": 2160,
+      "source_fps": 60.0,
+      "decode": "d3d11va",
+      "inference_fps": 7.275866321322013,
+      "inference_ms": 185.67649996839464,
+      "face_fps": 6.6,
+      "face_detection_ms": 127.57,
+      "error": null
+    },
+    {
+      "source_width": 3840,
+      "source_height": 2160,
+      "source_fps": 60.0,
+      "decode": "d3d11va",
+      "inference_fps": 7.418584182088772,
+      "inference_ms": 130.84999995771796,
+      "face_fps": 7.1,
+      "face_detection_ms": 87.45,
+      "error": null
+    },
+    {
+      "source_width": 3840,
+      "source_height": 2160,
+      "source_fps": 60.0,
+      "decode": "d3d11va",
+      "inference_fps": 7.433539120542251,
+      "inference_ms": 103.3338000997901,
+      "face_fps": 7.1,
+      "face_detection_ms": 53.55,
+      "error": null
+    }
+  ]
+}

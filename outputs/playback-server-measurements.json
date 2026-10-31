@@ -1,0 +1,137 @@
+[
+  {
+    "time": 1792764718547,
+    "sequence": 557,
+    "camera_fps": 29.985912658235303,
+    "frame_age": 0.057909250259399414,
+    "ai_fps": 7.044776119402985,
+    "cpu": 93.0,
+    "transport": "native-mp4"
+  },
+  {
+    "time": 1792764719486,
+    "sequence": 588,
+    "camera_fps": 29.89566613129159,
+    "frame_age": 0.0677499771118164,
+    "ai_fps": 7.274969173871964,
+    "cpu": 93.0,
+    "transport": "native-mp4"
+  },
+  {
+    "time": 1792764720379,
+    "sequence": 615,
+    "camera_fps": 30.08277811439862,
+    "frame_age": 0.061075687408447266,
+    "ai_fps": 7.111003977323647,
+    "cpu": 87.8,
+    "transport": "native-mp4"
+  },
+  {
+    "time": 1792764721487,
+    "sequence": 650,
+    "camera_fps": 29.985912658235303,
+    "frame_age": 0.04417872428894043,
+    "ai_fps": 6.992178241221492,
+    "cpu": 91.9,
+    "transport": "native-mp4"
+  },
+  {
+    "time": 1792764722334,
+    "sequence": 675,
+    "camera_fps": 30.08277811439862,
+    "frame_age": 0.0595545768737793,
+    "ai_fps": 6.915953580996165,
+    "cpu": 0.0,
+    "transport": "native-mp4"
+  },
+  {
+    "time": 1792764723155,
+    "sequence": 700,
+    "camera_fps": 29.895666131989888,
+    "frame_age": 0.0686039924621582,
+    "ai_fps": 6.878060153898453,
+    "cpu": 0.0,
+    "transport": "native-mp4"
+  },
+  {
+    "time": 1792764724204,
+    "sequence": 732,
+    "camera_fps": 29.985912658235303,
+    "frame_age": 0.05214405059814453,
+    "ai_fps": 6.779271515585304,
+    "cpu": 88.5,
+    "transport": "native-mp4"
+  },
+  {
+    "time": 1792764725032,
+    "sequence": 756,
+    "camera_fps": 30.27839869961751,
+    "frame_age": 0.06939697265625,
+    "ai_fps": 6.755209525947883,
+    "cpu": 88.0,
+    "transport": "native-mp4"
+  },
+  {
+    "time": 1792764725869,
+    "sequence": 781,
+    "camera_fps": 30.082778113691557,
+    "frame_age": 0.0744786262512207,
+    "ai_fps": 6.779271515585304,
+    "cpu": 85.1,
+    "transport": "native-mp4"
+  },
+  {
+    "time": 1792764727020,
+    "sequence": 815,
+    "camera_fps": 29.985912658235303,
+    "frame_age": 0.0676736831665039,
+    "ai_fps": 6.730549851741938,
+    "cpu": 93.8,
+    "transport": "native-mp4"
+  },
+  {
+    "time": 1792764727866,
+    "sequence": 841,
+    "camera_fps": 30.082778113691557,
+    "frame_age": 0.07294154167175293,
+    "ai_fps": 6.767607249374183,
+    "cpu": 93.8,
+    "transport": "native-mp4"
+  },
+  {
+    "time": 1792764728756,
+    "sequence": 867,
+    "camera_fps": 29.985912658235303,
+    "frame_age": 0.07542133331298828,
+    "ai_fps": 6.694655622313778,
+    "cpu": 85.2,
+    "transport": "native-mp4"
+  },
+  {
+    "time": 1792764729622,
+    "sequence": 893,
+    "camera_fps": 29.991948470248698,
+    "frame_age": 0.06430530548095703,
+    "ai_fps": 6.742857142857143,
+    "cpu": 86.4,
+    "transport": "native-mp4"
+  },
+  {
+    "time": 1792764730467,
+    "sequence": 919,
+    "camera_fps": 29.991948470248698,
+    "frame_age": 0.05195260047912598,
+    "ai_fps": 6.755209525947883,
+    "cpu": 87.9,
+    "transport": "native-mp4"
+  },
+  {
+    "time": 1792764731309,
+    "sequence": 944,
+    "camera_fps": 29.991948470248698,
+    "frame_age": 0.06703972816467285,
+    "ai_fps": 6.706831874575806,
+    "cpu": 87.9,
+    "transport": "native-mp4"
+  }
+]
