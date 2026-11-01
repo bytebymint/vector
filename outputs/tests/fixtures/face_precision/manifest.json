@@ -1,0 +1,63 @@
+{
+  "source": "Existing user-configured public Dubai video frame; manual review of selected visible faces and previous bad application captures.",
+  "positive_frame": "dubai-native.jpg",
+  "selected_faces": [
+    [
+      2335,
+      1031,
+      2383,
+      1096
+    ],
+    [
+      3134,
+      1136,
+      3174,
+      1181
+    ],
+    [
+      2053,
+      1092,
+      2084,
+      1135
+    ],
+    [
+      1920,
+      1103,
+      1947,
+      1139
+    ],
+    [
+      2997,
+      1143,
+      3025,
+      1182
+    ]
+  ],
+  "negative_crops": [
+    "negative-00.png",
+    "negative-01.png",
+    "negative-02.png",
+    "negative-03.png",
+    "negative-04.png",
+    "negative-05.png",
+    "negative-06.png",
+    "negative-07.png",
+    "negative-08.png",
+    "negative-09.png",
+    "negative-10.png",
+    "negative-11.png",
+    "negative-12.png",
+    "negative-13.png",
+    "negative-14.png",
+    "negative-15.png",
+    "negative-16.png",
+    "negative-17.png",
+    "negative-18.png",
+    "negative-19.png",
+    "negative-20.png",
+    "negative-21.png",
+    "negative-22.png",
+    "negative-23.png"
+  ],
+  "scope": "Five manually reviewed visible target faces, not exhaustive ground truth. Negative crops contain background, clothing and partial body fragments. Some negatives are duplicate categories from the original bug."
+}
