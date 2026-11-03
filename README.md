@@ -8,6 +8,8 @@
 
 > High-performance edge video intelligence system featuring real-time 4K/60fps video ingestion, lock-on Kalman face tracking, dual-model neural verification, ESPCN-x4 super-resolution enhancement, and live anonymous person profile generation.
 
+![VECTOR - Real-Time Face Tracking Studio](outputs/face-tracking-studio.png)
+
 ---
 
 ## Table of Contents
